@@ -1,4 +1,4 @@
-# Ecosystem_Explorers-activity
+# Ecosystem_Explorers-activity- On hold( Concerns of being resource hungry for below-average pcs)
 Activity for SugarLabs
 
 Steps
