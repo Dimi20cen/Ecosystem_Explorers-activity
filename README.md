@@ -1,10 +1,16 @@
 # Ecosystem_Explorers-activity
 Activity for SugarLabs
 
+Steps
+- Build it with pygame
+- Add sugargame wrap to work as a SugarLabs' activity
+- Add collaboration
 
 
 
-Concept:
+
+
+Concept:<br>
 In this game, the player would create and control a virtual organism with different traits that
 affect its survival and reproduction. The player would then be able to choose which traits their
 organism would possess, such as its body size and speed. Based on these attributes, each
